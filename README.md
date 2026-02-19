@@ -1,4 +1,10 @@
-Variational Quantum Classifier built on Pennylane and PyTorch.
+# Variational Quantum Classifier
 
-Run at the project's source directory to train the model:
-$ python3 -m src.QuantumClassifier
+Variational Quantum Classifier built with **PennyLane** and **PyTorch**.
+
+## How to Run
+
+From the project root directory, run:
+
+```bash
+python3 -m src.QuantumClassifier
